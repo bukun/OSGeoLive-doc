@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 12.0\n"
+"Project-Id-Version: OSGeoLive 13.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-28 14:24-0600\n"
+"POT-Creation-Date: 2019-08-06 12:41-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,7 +29,7 @@ msgid "Running"
 msgstr ""
 
 #: ../../build/doc/quickstart/leaflet_quickstart.rst:24
-msgid "Prior to running this quick start you should start TileStache. On the live dvd this can be found under **Geospatial\\\\Spatial Tools\\\\Start Mapnik & TileStache**. This will provide background tiles that will be used in this demo."
+msgid "Prior to running this quick start you should start TileStache. On OSGeoLive this can be found under **Geospatial\\\\Spatial Tools\\\\Start Mapnik & TileStache**. This will provide background tiles that will be used in this demo."
 msgstr ""
 
 #: ../../build/doc/quickstart/leaflet_quickstart.rst:27
@@ -37,7 +37,7 @@ msgid "View the example_"
 msgstr ""
 
 #: ../../build/doc/quickstart/leaflet_quickstart.rst:29
-msgid "If you are reading this quickstart outside the live dvd you may prefer reading the original demo on: http://leafletjs.com/examples/quick-start/, since this demo uses tilestache on the live dvd."
+msgid "If you are reading this quickstart outside OSGeoLive you may prefer reading the original demo on: http://leafletjs.com/examples/quick-start/, since this demo uses tilestache on OSGeoLive."
 msgstr ""
 
 #: ../../build/doc/quickstart/leaflet_quickstart.rst:32
@@ -85,7 +85,7 @@ msgid "Note that setView call also returns the map object - most Leaflet methods
 msgstr ""
 
 #: ../../build/doc/quickstart/leaflet_quickstart.rst:76
-msgid "Next we'll add a tile layer to add to our map. In this case we will be using the tile images provided by TileStache on the live dvd. Note that using nicer background maps such as openstreetmap will result in a much better user experience."
+msgid "Next we'll add a tile layer to our map. In this case we will be using the tile images provided by TileStache on the live dvd. Note that using nicer background maps such as openstreetmap will result in a much better user experience."
 msgstr ""
 
 #: ../../build/doc/quickstart/leaflet_quickstart.rst:79
@@ -94,10 +94,6 @@ msgstr ""
 
 #: ../../build/doc/quickstart/leaflet_quickstart.rst:85
 msgid "If you have online access you may want to use a nicer tilemap as the background:"
-msgstr ""
-
-#: ../../build/doc/quickstart/leaflet_quickstart.rst:89
-msgid "L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18, attribution: '© <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors'}).addTo(map);"
 msgstr ""
 
 #: ../../build/doc/quickstart/leaflet_quickstart.rst:91
